@@ -21,7 +21,7 @@ body {
 }
 
 a {
-    color: #41307c;
+    color: #333333;
     text-decoration: none;
 }
 
@@ -32,7 +32,7 @@ Main Components
 -------------------------------- */
 .topnav {
     overflow: hidden;
-    background-color: #333;
+    background-color: #333333;
     position: fixed;
     top: 0;
     width: 100%;
